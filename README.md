@@ -1,7 +1,8 @@
 # YelpCampProject
 A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
-## Live Demo - coming soon
+## Live Demo 
+- Please visit [my app here](https://nameless-forest-36356.herokuapp.com/).
 
 ## Built Using the following:
 - **APIs:**
