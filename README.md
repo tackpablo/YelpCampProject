@@ -44,7 +44,7 @@ A Node.js web application project from the Udemy course - [The Web Developer Boo
 - Authentication:
     - User login with username and password
 
-- Authorisation:
+- Authorization:
     -   User can not edit/delete campgrounds and comments created by other users
     - User can not add/delete campgrounds if not signed in
 
