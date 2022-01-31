@@ -2,7 +2,7 @@
 A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ## Live Demo 
-- Please visit [my app here](https://nameless-forest-36356.herokuapp.com/).
+- Please clone the repo and run build.
 
 ## Built Using the following:
 - **APIs:**
